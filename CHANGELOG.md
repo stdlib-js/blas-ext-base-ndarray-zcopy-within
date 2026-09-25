@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-12)
+## Unreleased (2026-09-25)
 
 <section class="features">
 
 ### Features
 
+-   [`9ba74da`](https://github.com/stdlib-js/stdlib/commit/9ba74dac73db26d42a64e7de6c40a22133e0a578) - add index normalization support to `blas/ext/base/ndarray/zcopy-within` [(#14665)](https://github.com/stdlib-js/stdlib/pull/14665)
 -   [`6dbb82e`](https://github.com/stdlib-js/stdlib/commit/6dbb82e35361bbd0dccfe53a7e8ad1985f905157) - add `blas/ext/base/ndarray/zcopy-within` [(#14130)](https://github.com/stdlib-js/stdlib/pull/14130)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`9ba74da`](https://github.com/stdlib-js/stdlib/commit/9ba74dac73db26d42a64e7de6c40a22133e0a578) - **feat:** add index normalization support to `blas/ext/base/ndarray/zcopy-within` [(#14665)](https://github.com/stdlib-js/stdlib/pull/14665) _(by Muhammad Haris)_
 -   [`6f563d5`](https://github.com/stdlib-js/stdlib/commit/6f563d5f65c22965e60a82e70c73a5e687df4b00) - **style:** add missing spaces [(#14201)](https://github.com/stdlib-js/stdlib/pull/14201) _(by Philipp Burckhardt)_
 -   [`6dbb82e`](https://github.com/stdlib-js/stdlib/commit/6dbb82e35361bbd0dccfe53a7e8ad1985f905157) - **feat:** add `blas/ext/base/ndarray/zcopy-within` [(#14130)](https://github.com/stdlib-js/stdlib/pull/14130) _(by Muhammad Haris, Athan Reines)_
 
